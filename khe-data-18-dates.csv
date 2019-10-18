@@ -1,0 +1,442 @@
+﻿school,shirt,demographic,first,year,age,gender,major,conduct,travel,status,going,checked,door,dietary,probable,created
+Kent State University ,XL,TRUE,TRUE,Alumnus,36,Female,UXD,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,10/19/2018
+Kent State University ,L,TRUE,TRUE,Alumnus,22,Female,Marketing/Sales grad,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/12/2018
+Kent State University,M,TRUE,TRUE,Freshman,18,Female,Biology,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/9/2018
+Kent State University,M,TRUE,FALSE,Freshman,18,Female,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/21/2018
+Kent State University,XXL,TRUE,TRUE,Freshman,19,Female,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[],FALSE,9/28/2018
+Kent State University,S,TRUE,TRUE,Freshman,19,Female,Engineering Technology,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/19/2018
+Kent State University,S,TRUE,TRUE,Freshman,20,Female,Biotechnology ,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/11/2018
+University of Akron,M,TRUE,TRUE,Freshman,18,Female,HR Management,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,10/17/2018
+University of Waterloo,S,TRUE,TRUE,Freshman,18,Female,Software Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/24/2018
+Youngstown State University,S,TRUE,TRUE,Freshman,18,Female,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['vegetarian'],FALSE,9/18/2018
+Case Western Reserve University ,M,TRUE,FALSE,Freshman,18,Male,CS,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/16/2018
+Columbus State Community College,M,TRUE,FALSE,Freshman,21,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/8/2018
+Community College of Allegheny County,M,TRUE,FALSE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/29/2018
+Cuyahoga County Community College,L,TRUE,FALSE,Freshman,18,Male,Undecided,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,9/28/2018
+Eastern Gateway Community College,M,TRUE,TRUE,Freshman,19,Male,Business Management,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/18/2018
+Hiram college,L,TRUE,TRUE,Freshman,20,Male,Compute science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/3/2018
+Kent State University,XL,TRUE,FALSE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/8/2018
+Kent State University,M,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,9/19/2018
+Kent State University,M,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,9/20/2018
+Kent State University,M,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/4/2018
+Kent State University,L,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+Kent State University,M,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/16/2018
+Kent State University,M,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/16/2018
+Kent State University,XL,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['Pineapple Allergy'],FALSE,10/16/2018
+Kent State University,M,TRUE,FALSE,Freshman,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,8/28/2018
+Kent State University,M,TRUE,FALSE,Freshman,19,Male,asdfaasdfasdf,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,9/19/2018
+Kent State University,XXL,TRUE,TRUE,Freshman,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/21/2018
+Kent State University,L,TRUE,FALSE,Freshman,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['vegetarian'],FALSE,10/4/2018
+Kent State University,L,TRUE,TRUE,Freshman,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/11/2018
+Kent State University,M,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/5/2018
+Kent State University at Stark,XL,TRUE,FALSE,Freshman,21,Male,Criminology and justice studies ,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/19/2018
+Minerva Schools at KGI,M,TRUE,FALSE,Freshman,18,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/26/2018
+Minerva Schools at KGI,S,TRUE,FALSE,Freshman,19,Male,Business and Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/26/2018
+National Insstitute of Technology Raipur,M,TRUE,FALSE,Freshman,18,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/8/2018
+Oakland University,L,TRUE,FALSE,Freshman,18,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/24/2018
+Pennsylvania State University,L,TRUE,FALSE,Freshman,19,Male,computer engineering,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/17/2018
+Pennsylvania State University,XXL,TRUE,FALSE,Freshman,18,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+Pennsylvania State University,M,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,TRUE,approved,TRUE,FALSE,FALSE,[],FALSE,10/8/2018
+Pennsylvania State University,XL,TRUE,TRUE,Freshman,18,Male,Astrophysics,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/10/2018
+St. Bonaventure University,XL,TRUE,TRUE,Freshman,18,Male,Cybersecurity,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,10/14/2018
+The University of Akron,M,TRUE,TRUE,Freshman,18,Male,Computer Science/Cybersecurity,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/13/2018
+The University of Toledo College of Engineering,M,TRUE,TRUE,Freshman,18,Male,Computer Science and Engineering,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/9/2018
+University of Akron,S,TRUE,TRUE,Freshman,19,Male,Cybersecurity,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/14/2018
+University of Miami,S,TRUE,TRUE,Freshman,19,Male,Computer Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/30/2018
+University of Texas at Austin,L,TRUE,TRUE,Freshman,18,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/16/2018
+University of Toledo,L,TRUE,FALSE,Freshman,17,Male,Computer Science,TRUE,TRUE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,10/8/2018
+University of Waterloo,L,TRUE,FALSE,Freshman,20,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/14/2018
+University of Western Ontario,S,TRUE,FALSE,Freshman,18,Male,Computer Science,TRUE,TRUE,approved,TRUE,FALSE,FALSE,[],FALSE,9/29/2018
+Youngstown State University,M,TRUE,TRUE,Freshman,19,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,['vegetarian'],FALSE,9/23/2018
+Youngstown State University,L,TRUE,TRUE,Freshman,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/28/2018
+Youngstown State University ,S,TRUE,FALSE,Freshman,20,Male,Computer Science ,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/2/2018
+Kent State University,M,TRUE,TRUE,Graduate,27,Female,computer science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/5/2018
+Kent State University,XL,TRUE,FALSE,Graduate,28,Female,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/17/2018
+Kent State University,L,TRUE,TRUE,Graduate,30,Female,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,10/5/2018
+Northeast Ohio Medical University,L,TRUE,FALSE,Graduate,21,Female,Medicine,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/2/2018
+Northeastern University,M,TRUE,FALSE,Graduate,22,Female,computer system networking and telecommunication,TRUE,TRUE,approved,TRUE,FALSE,FALSE,[],FALSE,10/11/2018
+Purdue University,S,TRUE,FALSE,Graduate,18,Female,Comp Sci,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/4/2018
+The Ohio State University,S,TRUE,FALSE,Graduate,24,Female,Biology,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/9/2018
+Carnegie Mellon University,XL,TRUE,FALSE,Graduate,26,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,9/12/2018
+"Indian Institute of Information Technology, Sri City",L,TRUE,FALSE,Graduate,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,8/30/2018
+Indiana University Bloomington,S,TRUE,TRUE,Graduate,23,Male,Data Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/9/2018
+Kent State University,S,TRUE,TRUE,Graduate,18,Male,c,TRUE,TRUE,pending,FALSE,FALSE,FALSE,['kosher'],FALSE,8/23/2018
+Kent State University,XXL,TRUE,FALSE,Graduate,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/2/2018
+Kent State University,S,TRUE,FALSE,Graduate,22,Male,Business Analytics,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/11/2018
+Kent State University,S,TRUE,FALSE,Graduate,22,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/7/2018
+Kent State University,M,TRUE,TRUE,Graduate,22,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['vegetarian'],FALSE,10/9/2018
+Kent State University,M,TRUE,TRUE,Graduate,22,Male,Mechatronics,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['kosher'],FALSE,10/13/2018
+Kent State University,S,TRUE,TRUE,Graduate,22,Male,Computer Science,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,10/19/2018
+Kent State University,M,TRUE,FALSE,Graduate,22,Male,Computer science ,TRUE,FALSE,pending,FALSE,TRUE,FALSE,['vegetarian'],FALSE,10/20/2018
+Kent State University,XL,TRUE,FALSE,Graduate,23,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/7/2018
+Kent State University,M,TRUE,TRUE,Graduate,23,Male,Computer science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/16/2018
+Kent State University,L,TRUE,TRUE,Graduate,24,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/9/2018
+Kent State University,L,TRUE,FALSE,Graduate,25,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,8/29/2018
+Kent State University,M,TRUE,TRUE,Graduate,25,Male,computer science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/2/2018
+Kent State University,XXL,TRUE,FALSE,Graduate,27,Male,Digital Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/7/2018
+Kent State University,M,TRUE,FALSE,Graduate,34,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['vegetarian'],FALSE,10/7/2018
+Malone University,L,TRUE,FALSE,Graduate,23,Male,Psychology,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+Manav Rachna International University,M,TRUE,FALSE,Graduate,21,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/19/2018
+new york university,S,TRUE,FALSE,Graduate,25,Male,computer science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/25/2018
+North Carolina State University,S,TRUE,TRUE,Graduate,23,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,9/5/2018
+North Carolina State University,M,TRUE,FALSE,Graduate,23,Male,Computer Science,TRUE,TRUE,pending,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/2/2018
+North Carolina State University,M,TRUE,FALSE,Graduate,23,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/2/2018
+Northeastern University,M,TRUE,TRUE,Graduate,25,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/20/2018
+Pennsylvania State University,M,TRUE,FALSE,Graduate,21,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/4/2018
+Stony Brook University,L,TRUE,TRUE,Graduate,26,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/25/2018
+University of Akron,M,TRUE,FALSE,Graduate,26,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/17/2018
+University of Cincinnati,M,TRUE,FALSE,Graduate,23,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,10/11/2018
+University of Houston,M,TRUE,FALSE,Graduate,24,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/11/2018
+Kent State University,XXL,TRUE,TRUE,Graduate,33,Prefer not to say,333,TRUE,TRUE,pending,FALSE,FALSE,FALSE,['glutenalsdkjfdadfaf'],FALSE,8/29/2018
+Kent State University,XXL,TRUE,TRUE,Graduate,33,Prefer not to say,333,TRUE,TRUE,pending,FALSE,FALSE,FALSE,['glutenalsdkjfdadfaf'],FALSE,8/29/2018
+Kent State University,M,TRUE,TRUE,Graduate,27,Prefer not to say,Chemical Physics ,TRUE,FALSE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,9/12/2018
+Kent State University,XL,TRUE,FALSE,Alumnus,25,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['gluten'],FALSE,9/3/2018
+We Can Code IT,L,TRUE,TRUE,Alumnus,22,Male,N/a,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/3/2018
+Kent State University,XL,TRUE,TRUE,Alumnus,25,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/17/2018
+Andrews Osborne Academy,S,TRUE,FALSE,High School,18,Female,I don’t have a major since I’m in high school.,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/5/2018
+Andrews Osborne Academy,M,TRUE,TRUE,High School,18,Female,Nutrition,TRUE,FALSE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,10/12/2018
+Firestone ,L,TRUE,FALSE,High School,16,Female,Computer animation ,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/9/2018
+Hinsdale Central High School,M,TRUE,FALSE,High School,17,Female,High Schooler,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/26/2018
+None,M,TRUE,FALSE,High School,25,Female,Art,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/8/2018
+Sir John A. Macdonald Secondary School,M,TRUE,FALSE,High School,17,Female,Still a high school student yet considering Computer Science or Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/23/2018
+Stow Munroe Falls High School,S,TRUE,TRUE,High School,15,Female,Im in High School,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['vegetarian'],FALSE,10/8/2018
+Troy High School,M,TRUE,FALSE,High School,16,Female,High School Student,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/11/2018
+Andrews Osborne Academy,L,TRUE,TRUE,High School,15,Male,computer science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/13/2018
+Andrews Osborne Academy,M,TRUE,TRUE,High School,17,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/4/2018
+Andrews Osborne Academy ,L,TRUE,TRUE,High School,17,Male,computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/8/2018
+Bio-Med Science Academy,M,TRUE,TRUE,High School,16,Male,In high school,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/1/2018
+Clarkston High School,L,TRUE,FALSE,High School,15,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/24/2018
+East High School,L,TRUE,TRUE,High School,15,Male,English,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['none'],FALSE,9/21/2018
+Erindale Secondary School,M,TRUE,FALSE,High School,14,Male,To Be Medical Soon ,TRUE,TRUE,approved,TRUE,FALSE,FALSE,['kosher'],FALSE,10/5/2018
+Erindale Secondary School,L,TRUE,TRUE,High School,15,Male,,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+Firestone ,L,TRUE,FALSE,High School,15,Male,Student,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/9/2018
+Firestone ,S,TRUE,TRUE,High School,15,Male,Computer Engineer ,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['N/A'],FALSE,10/9/2018
+Guru Nanak Public School,M,TRUE,TRUE,High School,16,Male,Science,TRUE,TRUE,approved,TRUE,FALSE,FALSE,[],FALSE,8/24/2018
+Kenmore/Garfield Highschool,XXXL,TRUE,FALSE,High School,17,Male,Information Technology,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['vegetarian'],FALSE,10/13/2018
+Perrysburg High School,L,TRUE,FALSE,High School,16,Male,High School,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+Port Credit Secondary School,S,TRUE,FALSE,High School,14,Male,I hope to pursue Astronautical Engineering and Nanotechnology. ,TRUE,TRUE,approved,TRUE,FALSE,FALSE,['I am only able to eat one meat: Chicken.'],FALSE,9/22/2018
+Salinas High School,S,TRUE,FALSE,High School,16,Male,,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/11/2018
+Troy High school ,S,TRUE,TRUE,High School,16,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/15/2018
+Vincent Massey Secondary School,XL,TRUE,FALSE,High School,16,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/19/2018
+White Oaks Secondary School,XL,TRUE,FALSE,High School,16,Male,High School Diploma/IB Diploma,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/1/2018
+Markville Secondary School,M,TRUE,FALSE,High School,17,Prefer not to say,Computer Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/8/2018
+Andrews Osborne Academy,M,TRUE,TRUE,High School,16,Male,,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/11/2018
+Andrews Osborne Academy,M,TRUE,TRUE,High School,15,Male,Game design,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['Allergy with shell fishes'],FALSE,10/10/2018
+Andrews Osborne Academy,M,TRUE,TRUE,High School,17,Male,Game Design,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/18/2018
+Universidad Autonoma del Estado de Mexico,M,TRUE,TRUE,Alumnus,31,Female,BS Computer Engineering,TRUE,TRUE,approved,TRUE,FALSE,FALSE,[],FALSE,10/12/2018
+Cairo University,M,TRUE,TRUE,Junior,20,Female,Computer Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['Halal food '],FALSE,8/30/2018
+Case Western Reserve University,M,TRUE,TRUE,Junior,22,Female,Mechanical Engineer,TRUE,FALSE,approved,TRUE,FALSE,FALSE,['None'],FALSE,10/3/2018
+Columbus College of Art and Design,S,TRUE,FALSE,Junior,23,Female,Industrial Design,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/13/2018
+Florida International University,S,TRUE,FALSE,Junior,21,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/27/2018
+Indiana University Bloomington,M,TRUE,TRUE,Junior,20,Female,Informatics ,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/28/2018
+Kent State University,L,TRUE,TRUE,Junior,20,Female,Computer Information Systems,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/8/2018
+Kent State University,XL,TRUE,FALSE,Junior,20,Female,Digital Sciences,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/11/2018
+Kent State University,S,TRUE,TRUE,Junior,20,Female,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/22/2018
+Kent State University,S,TRUE,TRUE,Junior,20,Female,Entrepreneurship ,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],TRUE,10/2/2018
+Kent State University,L,TRUE,TRUE,Junior,21,Female,Pure Mathematics and Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/4/2018
+Kent State University,M,TRUE,FALSE,Junior,21,Female,Animation and Game Design,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/10/2018
+Purdue University,S,TRUE,FALSE,Junior,19,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/15/2018
+Purdue University,L,TRUE,FALSE,Junior,19,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/24/2018
+Purdue University,M,TRUE,FALSE,Junior,20,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/15/2018
+University of British Columbia,S,TRUE,TRUE,Junior,22,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/10/2018
+University of Washington Seattle,M,TRUE,TRUE,Junior,20,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegan'],FALSE,8/23/2018
+Youngstown State University,M,TRUE,FALSE,Junior,18,Female,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,8/27/2018
+Youngstown State University,S,TRUE,TRUE,Junior,21,Female,Computer Information Systems,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/11/2018
+American U,M,TRUE,TRUE,Junior,19,Male,CS,TRUE,FALSE,pending,FALSE,FALSE,FALSE,['vegan'],FALSE,8/23/2018
+Andrews Osborne Academy,L,TRUE,TRUE,Junior,16,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/8/2018
+Andrews Osborne Academy,M,TRUE,TRUE,Junior,17,Male,"Computer Science, Mechanical Engineering, Double E",TRUE,FALSE,approved,TRUE,TRUE,FALSE,['Nuts'],FALSE,10/13/2018
+Andrews Osborne Academy,XL,TRUE,TRUE,Junior,17,Male,Business,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/13/2018
+Andrews Osborne Academy,M,TRUE,TRUE,Junior,18,Male,none decided,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/12/2018
+Avila University,XXL,TRUE,TRUE,Junior,26,Male,Computer Science ,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['gluten'],FALSE,10/2/2018
+Bharati Vidyapeeth's College of Engineering New Delhi,M,TRUE,FALSE,Junior,20,Male,Information Technology,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/16/2018
+Case Western Reserve University,L,TRUE,TRUE,Junior,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/12/2018
+Case Western Reserve University,L,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/27/2018
+Case Western Reserve University,L,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/12/2018
+Case Western Reserve University,L,TRUE,TRUE,Junior,20,Male,Computer Science ,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/12/2018
+Case Western Reserve University,M,TRUE,FALSE,Junior,21,Male,Computer Science ,TRUE,TRUE,pending,FALSE,FALSE,FALSE,[''],FALSE,9/10/2018
+Case Western Reserve University,M,TRUE,FALSE,Junior,21,Male,Computer Science ,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/10/2018
+Case Western Reserve University,M,TRUE,TRUE,Junior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/11/2018
+Drexel University,M,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/6/2018
+Kent State University,M,TRUE,TRUE,Junior,16,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/19/2018
+Kent State University,M,TRUE,TRUE,Junior,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,8/28/2018
+Kent State University,L,TRUE,FALSE,Junior,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,8/31/2018
+Kent State University,M,TRUE,FALSE,Junior,20,Male,Digital Science,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,8/22/2018
+Kent State University,M,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,8/28/2018
+Kent State University,L,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['vegetarian'],FALSE,8/30/2018
+Kent State University,M,TRUE,FALSE,Junior,20,Male,Digital Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/13/2018
+Kent State University,M,TRUE,TRUE,Junior,20,Male,Computer Science: Information Security,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/2/2018
+Kent State University,L,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['Fish'],FALSE,10/4/2018
+Kent State University,M,TRUE,FALSE,Junior,20,Male,Digital Sciences,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/16/2018
+Kent State University,M,TRUE,TRUE,Junior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/21/2018
+Kent State University,M,TRUE,FALSE,Junior,21,Male,Marketing,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/18/2018
+Kent State University,M,TRUE,FALSE,Junior,22,Male,Environmental studies,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/2/2018
+Kent State University,M,TRUE,FALSE,Junior,25,Male,Digital Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/3/2018
+Kent State University,L,TRUE,FALSE,Junior,25,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/19/2018
+Kent State University at Stark,XL,TRUE,FALSE,Junior,20,Male,Information Technology,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/19/2018
+Northern Kentucky University,L,TRUE,TRUE,Junior,21,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegan'],FALSE,10/4/2018
+Oakland University,L,TRUE,FALSE,Junior,23,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/27/2018
+Oberlin College,M,TRUE,FALSE,Junior,20,Male,Mathematics & Physics (Material Science),TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,9/3/2018
+Oberlin College,S,TRUE,FALSE,Junior,20,Male,Computer Science and Math,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/3/2018
+Oberlin College,M,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/3/2018
+Oberlin College,M,TRUE,TRUE,Junior,20,Male,East Asian Studies,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+Oberlin College,L,TRUE,TRUE,Junior,21,Male,"Computer Science, Cinema Studies",TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/4/2018
+Ohio State University,L,TRUE,FALSE,Junior,20,Male,Computer Science and Engineering,TRUE,TRUE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/13/2018
+Pennsylvania State University,M,TRUE,FALSE,Junior,20,Male,Software Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['No beef'],FALSE,10/8/2018
+"Queens College, CUNY",L,TRUE,FALSE,Junior,30,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/18/2018
+Rutgers University ,L,TRUE,FALSE,Junior,19,Male,Information Technology and Informatics,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/3/2018
+Saint Bonaventure University,M,TRUE,FALSE,Junior,20,Male,Computer Science and Biology Double,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/7/2018
+St. Cloud State University,L,TRUE,TRUE,Junior,22,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/20/2018
+Temple University,M,TRUE,FALSE,Junior,22,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/3/2018
+The Ohio State University,L,TRUE,TRUE,Junior,22,Male,Aerospace Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/18/2018
+The University of Akron,M,TRUE,FALSE,Junior,21,Male,Cybersecurity,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/10/2018
+The University of Akron,M,TRUE,FALSE,Junior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+The University of Southern Mississippi,M,TRUE,TRUE,Junior,21,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,"[""I don't eat beef. ""]",FALSE,9/17/2018
+The University of Toledo,XXL,TRUE,TRUE,Junior,20,Male,Computer Science and Engineering,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/23/2018
+The University of Western Ontario,XXL,TRUE,FALSE,Junior,19,Male,Computer Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/23/2018
+University of Akron,M,TRUE,FALSE,Junior,21,Male,Mechanical Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/19/2018
+University of Akron,XXL,TRUE,FALSE,Junior,28,Male,CIS Programming,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/8/2018
+"University of California, Irvine",L,TRUE,FALSE,Junior,20,Male,Nursing Science (Minor: Computer Engineering),TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/15/2018
+"University of California, Irvine",M,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,10/3/2018
+"University of California, Los Angeles",S,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/1/2018
+"University of California, Santa Barbara",M,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/2/2018
+University of Cincinnati,L,TRUE,FALSE,Junior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/11/2018
+University of Cincinnati,L,TRUE,TRUE,Junior,21,Male,information systems,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/31/2018
+University of Colombo School of Computing,S,TRUE,FALSE,Junior,23,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,9/7/2018
+University of Louisiana at Monroe,M,TRUE,TRUE,Junior,22,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['NO'],FALSE,8/29/2018
+University of Michigan,M,TRUE,TRUE,Junior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/25/2018
+University of Southern California,XL,TRUE,FALSE,Junior,21,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegan'],FALSE,10/11/2018
+University of Toledo,XL,TRUE,FALSE,Junior,20,Male,Computer Science Engineering (CSE),TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/26/2018
+University of Waterloo,S,TRUE,FALSE,Junior,20,Male,Computer Science and Business Administration,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/4/2018
+Youngstown State University,L,TRUE,FALSE,Junior,20,Male,Information Technology,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/11/2018
+Youngstown State University,XL,TRUE,FALSE,Junior,21,Male,Computer information systems,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[],FALSE,9/4/2018
+Youngstown state University,M,TRUE,TRUE,Junior,25,Male,Exercise Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['gluten'],FALSE,9/20/2018
+Kent State University,L,TRUE,FALSE,Junior,21,Prefer not to say,Information Technology ,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/15/2018
+MONTGOMERY COLLEGE,S,TRUE,TRUE,Junior,23,Prefer not to say,COMPUTER SCIENCE,TRUE,TRUE,approved,TRUE,FALSE,FALSE,[],FALSE,10/10/2018
+The University of Akron,M,TRUE,TRUE,Junior,21,Prefer not to say,Computer Science ,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/11/2018
+Arizona State University,M,TRUE,FALSE,Junior,21,Robot,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/7/2018
+CHAMP,XXXL,TRUE,TRUE,Maker,31,Male,Electronic Engineering,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/19/2018
+None,M,TRUE,FALSE,Mentor,23,Male,None,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/3/2018
+Case Western Reserve University,S,TRUE,FALSE,Alumnus,22,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/13/2018
+University of Akron,L,TRUE,FALSE,Alumnus,22,Male,Applied Math,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['vegetarian'],FALSE,10/16/2018
+Wright State University,L,TRUE,TRUE,Alumnus,22,Male,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/16/2018
+The University of Akron,L,TRUE,FALSE,Alumnus,22,Male,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['vegetarian'],FALSE,10/16/2018
+Akron Alternative Academy ,XXXL,TRUE,TRUE,Senior,19,Battleship,Information Technology,TRUE,FALSE,pending,FALSE,FALSE,FALSE,['kosher'],FALSE,10/19/2018
+American InterContinental University,XXL,TRUE,FALSE,Senior,30,Female,Science in Information Technology,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/24/2018
+Andrews Osborne Academy,M,TRUE,TRUE,Senior,17,Female,Computer Science ,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/12/2018
+Bowling Green State University,M,TRUE,TRUE,Senior,22,Female,Mathematics,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/7/2018
+Central Methodist University/Kent State University University,M,TRUE,TRUE,Senior,24,Female,Computer Science/Accounting/Psychology/Statistics ,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['Allergic to Mushrooms '],FALSE,8/31/2018
+CUNY Brooklyn College,XXL,TRUE,FALSE,Senior,22,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,8/27/2018
+Dalhousie University,L,TRUE,FALSE,Senior,22,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/23/2018
+Kennesaw State University,L,TRUE,FALSE,Senior,21,Female,Software Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['kosher'],FALSE,10/5/2018
+Kennesaw State University,M,TRUE,TRUE,Senior,22,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/9/2018
+Kent State University,M,TRUE,TRUE,Senior,20,Female,Computer Animation and Game design,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/16/2018
+Kent State University,M,TRUE,FALSE,Senior,21,Female,Fashion Merchandising,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/3/2018
+Kent State University,S,TRUE,FALSE,Senior,23,Female,Digital Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,9/18/2018
+Kent State University,L,TRUE,TRUE,Senior,24,Female,Visual Communication Design,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/10/2018
+Kent State University,S,TRUE,FALSE,Senior,25,Female,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/5/2018
+McMaster University,S,TRUE,FALSE,Senior,22,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/16/2018
+The University of Akron,S,TRUE,FALSE,Senior,21,Female,Computer Engineering,TRUE,TRUE,approved,FALSE,TRUE,FALSE,['vegan'],FALSE,9/7/2018
+The University of Akron,M,TRUE,FALSE,Senior,21,Female,Electrical Engineering,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/19/2018
+University of Akron,M,TRUE,FALSE,Senior,21,Female,Computer Engineering,TRUE,FALSE,pending,FALSE,FALSE,FALSE,['Almonds'],FALSE,9/20/2018
+University of Akron,M,TRUE,FALSE,Senior,21,Female,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['Almonds'],FALSE,9/20/2018
+University of Akron,S,TRUE,FALSE,Senior,26,Female,Computer Information Systems,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/15/2018
+University of Florida,S,TRUE,FALSE,Senior,20,Female,Computer Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/29/2018
+University of Florida,S,TRUE,FALSE,Senior,21,Female,computer science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/7/2018
+American Univrsity of Armenia ,S,TRUE,FALSE,Senior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/2/2018
+Amity University,L,TRUE,TRUE,Senior,19,Male,Computer Science and Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegan'],FALSE,8/29/2018
+Andrews Osborne Academy ,M,TRUE,TRUE,Senior,18,Male,Computer engineering ,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/12/2018
+Baruch College,M,TRUE,FALSE,Senior,22,Male,Computer Info. System,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,9/6/2018
+Case Western Reserve University,L,TRUE,FALSE,Senior,22,Male,Computer Science,TRUE,TRUE,pending,FALSE,FALSE,FALSE,[''],FALSE,9/10/2018
+Case Western Reserve University,L,TRUE,FALSE,Senior,22,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/10/2018
+Delhi Technological University,L,TRUE,FALSE,Senior,19,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/2/2018
+Delhi Technological University,L,TRUE,FALSE,Senior,20,Male,Computer science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/3/2018
+Hiram College,L,TRUE,FALSE,Senior,20,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['vegetarian'],FALSE,9/11/2018
+Hiram College,L,TRUE,TRUE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,9/21/2018
+Hiram college,L,TRUE,TRUE,Senior,25,Male,computer science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/3/2018
+Illinois Institute of Technology,L,TRUE,TRUE,Senior,24,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/15/2018
+Jaypee University of Engineering and Technology,M,TRUE,TRUE,Senior,23,Male,Computer Science and Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/24/2018
+Kent State University,L,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['Vegetarian'],FALSE,8/22/2018
+Kent State University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/19/2018
+Kent State University,L,TRUE,TRUE,Senior,19,Male,Political Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/28/2018
+Kent State University,M,TRUE,FALSE,Senior,20,Male,Computer Science,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,8/22/2018
+Kent State University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['Vegetarian'],FALSE,8/22/2018
+Kent State University,L,TRUE,TRUE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/30/2018
+Kent State University,L,TRUE,FALSE,Senior,21,Male,CS,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['Allergies to Nuts and eggs'],FALSE,8/30/2018
+Kent State University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['vegetarian'],FALSE,9/18/2018
+Kent State University,XXL,TRUE,TRUE,Senior,21,Male,Digital Sciences,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/18/2018
+Kent State University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/20/2018
+Kent State University,M,TRUE,TRUE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/5/2018
+Kent State University,L,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,"[""Im allergic to soy""]",FALSE,10/14/2018
+Kent State University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+Kent State University,M,TRUE,TRUE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['vegetarian'],FALSE,10/18/2018
+Kent State University,L,TRUE,TRUE,Senior,22,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/3/2018
+Kent State University,L,TRUE,FALSE,Senior,23,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/4/2018
+Kent State University,M,TRUE,TRUE,Senior,24,Male,Applied Communication,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/3/2018
+Kent State University,L,TRUE,FALSE,Senior,24,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+Kent State University,M,TRUE,TRUE,Senior,24,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/18/2018
+Kent State University,L,TRUE,TRUE,Senior,26,Male,Digital Sciences,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/18/2018
+Kent State University,L,TRUE,FALSE,Senior,27,Male,computer science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/11/2018
+Kent State University,M,TRUE,TRUE,Senior,30,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/18/2018
+Kent State University,M,TRUE,FALSE,Senior,20,Male,Computer Science,TRUE,,approved,TRUE,TRUE,FALSE,[],FALSE,8/22/2018
+Oberlin College,M,TRUE,TRUE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/13/2018
+Purdue University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/20/2018
+Purdue University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/20/2018
+Purdue University,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,9/20/2018
+R. Nelson Snider High School Fort Wayne,L,TRUE,TRUE,Senior,17,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/7/2018
+Rutgers University,M,TRUE,FALSE,Senior,21,Male,Mechanical Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/4/2018
+Simon Fraser University,S,TRUE,FALSE,Senior,24,Male,Bioinformatics,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/7/2018
+SRM University,M,TRUE,FALSE,Senior,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegitarian'],FALSE,8/28/2018
+SRM University,XL,TRUE,TRUE,Senior,21,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/28/2018
+St. Bonaventure University,M,TRUE,FALSE,Senior,21,Male,Bioinformatics,TRUE,TRUE,approved,TRUE,TRUE,FALSE,['Peach allergy'],FALSE,9/10/2018
+The Ohio State University,M,TRUE,TRUE,Senior,21,Male,Computer and Information Sciences,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/6/2018
+The Pennsylvania State University,XXL,TRUE,FALSE,Senior,22,Male,Software and Electrical Engineering,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/5/2018
+The University of Akron,M,TRUE,FALSE,Senior,21,Male,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,8/30/2018
+The University of Akron,XL,TRUE,FALSE,Senior,21,Male,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/19/2018
+The University of Akron,M,TRUE,FALSE,Senior,21,Male,Computer Engineering,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/6/2018
+The University of Akron,L,TRUE,FALSE,Senior,21,Male,Electrical and Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+The University of Akron,L,TRUE,TRUE,Senior,21,Male,Programming/Web Development,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/10/2018
+The University of Akron,L,TRUE,FALSE,Senior,22,Male,Mathematics and Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/11/2018
+The University of Akron,M,TRUE,FALSE,Senior,23,Male,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/11/2018
+Towson University,L,TRUE,FALSE,Senior,24,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,8/25/2018
+University of Akron,XL,TRUE,FALSE,Senior,21,Male,Mechanical Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/19/2018
+University of Akron,L,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/10/2018
+University of Akron,XL,TRUE,FALSE,Senior,25,Male,Mechanical Engineering,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/18/2018
+University of Cincinnati,L,TRUE,FALSE,Senior,22,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/6/2018
+University of Cincinnati,M,TRUE,FALSE,Senior,23,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/6/2018
+"University of Colorado, Boulder",L,TRUE,FALSE,Senior,22,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/18/2018
+University of Illinois at Urbana-Champaign,M,TRUE,FALSE,Senior,20,Male,Electrical Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/3/2018
+University Of Maryland,M,TRUE,FALSE,Senior,23,Male,Computer Science / Cyber Security,TRUE,TRUE,approved,TRUE,FALSE,FALSE,['nope!'],FALSE,9/5/2018
+University of Michigan,M,TRUE,FALSE,Senior,20,Male,Cell and Molecular Biology,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,8/30/2018
+University of Pittsburgh,L,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,8/29/2018
+University of Pittsburgh,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,9/4/2018
+University of Pittsburgh,M,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/4/2018
+University of Pittsburgh,L,TRUE,FALSE,Senior,21,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/11/2018
+University of Pittsburgh,M,TRUE,FALSE,Senior,21,Male,Electrical Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/25/2018
+University of Pittsburgh,L,TRUE,FALSE,Senior,21,Male,Economics-Statistics,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+University of Toledo,M,TRUE,TRUE,Senior,21,Male,Computer Science and Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/11/2018
+University of Toronto,M,TRUE,FALSE,Senior,20,Male,Molecular Genetic & Microbiology,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/13/2018
+Youngstown State University,M,TRUE,FALSE,Senior,21,Male,Computer science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,9/18/2018
+Youngstown State University,L,TRUE,FALSE,Senior,23,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/3/2018
+Youngstown State University,XL,TRUE,FALSE,Senior,35,Male,computer science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/18/2018
+University of Pittsburgh,XL,TRUE,FALSE,Senior,21,Prefer not to say,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/12/2018
+Kent State University,XL,TRUE,TRUE,Senior,21,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['NONE'],FALSE,10/17/2018
+Kent State University,L,TRUE,TRUE,Sophomore,18,Demigirl,Computer Science/Mathematics,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/11/2018
+Brown University,S,TRUE,FALSE,Sophomore,19,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/26/2018
+Case Western Reserve University,S,TRUE,TRUE,Sophomore,19,Female,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/9/2018
+Fairleigh Dickinson University,M,TRUE,TRUE,Sophomore,19,Female,Computer Science (Data Mining),TRUE,TRUE,pending,FALSE,FALSE,FALSE,[''],FALSE,9/29/2018
+Fairleigh Dickinson University,M,TRUE,TRUE,Sophomore,19,Female,Computer Science (Data Mining),TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/29/2018
+Illinois Institute of Technology,L,TRUE,FALSE,Sophomore,19,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/25/2018
+Kent State University,S,TRUE,FALSE,Sophomore,19,Female,Environmental Conservation Biology,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/20/2018
+Kent State University,S,TRUE,FALSE,Sophomore,19,Female,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/28/2018
+Kent State University,S,TRUE,FALSE,Sophomore,19,Female,Mechatronics,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/11/2018
+Purdue University,M,TRUE,FALSE,Sophomore,18,Female,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/2/2018
+Purdue University,S,TRUE,FALSE,Sophomore,19,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/15/2018
+Stanford University,M,TRUE,TRUE,Sophomore,21,Female,Symbolic Systems - Cognitive Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/26/2018
+Stow-Munroe Falls High School ,L,TRUE,TRUE,Sophomore,14,Female, ,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/14/2018
+The University of Guelph,M,TRUE,FALSE,Sophomore,19,Female,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/2/2018
+UC Berkeley,S,TRUE,FALSE,Sophomore,18,Female,Electrical Engineering and Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,8/30/2018
+University of Akron,M,TRUE,TRUE,Sophomore,19,Female,Mechanical engineering ,TRUE,FALSE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,10/6/2018
+University of Texas at Dallas,M,TRUE,FALSE,Sophomore,18,Female,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegitarian'],FALSE,8/24/2018
+Andrews Osborne Academy ,L,TRUE,TRUE,Sophomore,15,Male,Computer Science ,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+California State University San Marcos,M,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,8/24/2018
+Columbus College of Art and Design,M,TRUE,FALSE,Sophomore,33,Male,Industrial Design,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/11/2018
+Columbus College of Art and Design,L,TRUE,FALSE,Sophomore,19,Male,Industrial Design,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/12/2018
+Drexel University,L,TRUE,FALSE,Sophomore,20,Male,Computer Science ,TRUE,TRUE,approved,TRUE,FALSE,FALSE,[],FALSE,10/11/2018
+Fullerton College,M,TRUE,TRUE,Sophomore,18,Male,Computer Science,TRUE,TRUE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,10/11/2018
+Georgia Institute of Technology,M,TRUE,TRUE,Sophomore,19,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/4/2018
+Hiram College,M,TRUE,TRUE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/8/2018
+Hiram College,M,TRUE,TRUE,Sophomore,20,Male,Computer Science ,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/3/2018
+Hiram College ,M,TRUE,TRUE,Sophomore,19,Male,Theatre,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/4/2018
+Kent State University,XXL,TRUE,TRUE,Sophomore,20,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['vegetarian'],FALSE,10/4/2018
+Kent State University,M,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,8/29/2018
+Kent State University,M,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/5/2018
+Kent State University,M,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/11/2018
+Kent State University,XXL,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,FALSE,FALSE,[],FALSE,10/10/2018
+Kent State University,L,TRUE,TRUE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+Kent State University,M,TRUE,TRUE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/15/2018
+Kent State University,L,TRUE,FALSE,Sophomore,19,Male,Computer Design and Animation,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['None'],FALSE,10/19/2018
+Kent State University,M,TRUE,TRUE,Sophomore,20,Male,Information Technology,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/28/2018
+Kent State University,M,TRUE,TRUE,Sophomore,20,Male,Digital Sciences,TRUE,FALSE,approved,FALSE,FALSE,FALSE,['gluten'],FALSE,9/5/2018
+Kent State University,L,TRUE,TRUE,Sophomore,20,Male,Digital Sciences,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/5/2018
+Kent State University,M,TRUE,TRUE,Sophomore,20,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+Kent State University,M,TRUE,TRUE,Sophomore,20,Male,Digital Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,['gluten'],FALSE,10/15/2018
+Kent State University,S,TRUE,TRUE,Sophomore,20,Male,Political Science ,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['Nuts '],FALSE,10/19/2018
+Kent State University,L,TRUE,TRUE,Sophomore,21,Male,General Business,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,10/20/2018
+Kent State University,XXL,TRUE,TRUE,Sophomore,24,Male,"Computer Science, Physics",TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/13/2018
+Kent State University,L,TRUE,TRUE,Sophomore,24,Male,Mathematics,TRUE,FALSE,pending,FALSE,TRUE,FALSE,[''],FALSE,10/20/2018
+Kent State University,M,TRUE,TRUE,Sophomore,19,Male,Criminal Justice ,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/5/2018
+Kent State University,L,TRUE,TRUE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['No pork. Good sir. '],FALSE,10/9/2018
+Kent State University,M,TRUE,FALSE,Sophomore,21,Male,Digital Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,['Suger Free'],FALSE,9/11/2018
+Kent State University at Stark,XL,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,8/23/2018
+Kent State University at Stark,L,TRUE,TRUE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,"['No tree nuts (pecans, almonds, walnuts) peanuts are okay']",FALSE,10/9/2018
+Lorain County Community College,L,TRUE,FALSE,Sophomore,19,Male,Biomechanical Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/29/2018
+Lorain County Community College,L,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/5/2018
+Lorain County Community College,XXXL,TRUE,TRUE,Sophomore,20,Male,Computer Science,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/11/2018
+Modesto Junior College,L,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/23/2018
+Oberlin College,M,TRUE,FALSE,Sophomore,19,Male,Computer Science and Mathematics,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/12/2018
+Oberlin College,S,TRUE,TRUE,Sophomore,20,Male,Computer Science,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,10/12/2018
+Pennsylvania State University,M,TRUE,FALSE,Sophomore,19,Male,Computer Engineering And Math,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['kosher'],FALSE,10/8/2018
+Pennsylvania State University,M,TRUE,FALSE,Sophomore,20,Male,Software Engineering,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/5/2018
+Pennsylvania State University,L,TRUE,FALSE,Sophomore,19,Male,M.I.S.,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/11/2018
+Rutgers University,L,TRUE,TRUE,Sophomore,19,Male,Computer Science and Mathematics,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/4/2018
+The University of Akron,M,TRUE,TRUE,Sophomore,19,Male,Computer Engineering,TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,9/19/2018
+The University of Akron,M,TRUE,TRUE,Sophomore,19,Male,Computer Engineering,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/19/2018
+The University of Akron,L,TRUE,FALSE,Sophomore,19,Male,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/16/2018
+The University of Akron,L,TRUE,FALSE,Sophomore,20,Male,Computer Engineering,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/9/2018
+The University of Akron,M,TRUE,TRUE,Sophomore,20,Male,Computer Information Systems,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/18/2018
+The University of Texas at Dallas,S,TRUE,FALSE,Sophomore,18,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,9/3/2018
+The University of Texas at Dallas,M,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/2/2018
+The University of Toledo,XL,TRUE,TRUE,Sophomore,20,Male,Computer Science and Engineering,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[],FALSE,9/27/2018
+The University of Waterloo,M,TRUE,FALSE,Sophomore,19,Male,Computer Science and Business Administration Double Degree,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[],FALSE,8/24/2018
+University of Akron,M,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,10/3/2018
+University of Akron,M,TRUE,TRUE,Sophomore,20,Male,Computer Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,9/22/2018
+"University of California, Irvine",L,TRUE,FALSE,Sophomore,19,Male,Computer Science,TRUE,TRUE,approved,TRUE,FALSE,FALSE,['vegetarian'],FALSE,10/10/2018
+University of Pittsburgh,L,TRUE,TRUE,Sophomore,19,Male,Computer Science,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/29/2018
+University of Toledo,M,TRUE,TRUE,Sophomore,20,Male,Computer Science and Engineering,TRUE,FALSE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/25/2018
+University of Toledo,L,TRUE,TRUE,Sophomore,29,Male,Computer Science and Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/16/2018
+University of Toledo,M,TRUE,FALSE,Sophomore,19,Male,Computer Science and Engineering,TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,8/26/2018
+University of Waterloo,XL,TRUE,FALSE,Sophomore,19,Male,Computer Science ,TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,8/27/2018
+University of Waterloo,M,TRUE,FALSE,Sophomore,19,Male,Computer Science (+ Combinatorics and Optimization),TRUE,TRUE,approved,FALSE,FALSE,FALSE,[''],FALSE,9/8/2018
+University of Waterloo,M,TRUE,TRUE,Sophomore,20,Male,Systems Design Engineering,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,10/8/2018
+Youngstown State,M,TRUE,FALSE,Sophomore,20,Male,Computer Science,TRUE,TRUE,approved,FALSE,FALSE,FALSE,['vegetarian'],FALSE,10/2/2018
+Youngstown State University,M,TRUE,FALSE,Sophomore,21,Male,Information Technology,TRUE,TRUE,approved,TRUE,TRUE,FALSE,[],FALSE,9/7/2018
+University of Waterloo,S,TRUE,FALSE,Sophomore,20,Prefer not to say,"Finance, Computer Science",TRUE,FALSE,pending,FALSE,FALSE,FALSE,[''],FALSE,10/3/2018
+University of Waterloo,S,TRUE,FALSE,Sophomore,20,Prefer not to say,"Finance, Computer Science",TRUE,FALSE,approved,TRUE,TRUE,FALSE,[],FALSE,10/3/2018
+Kent State University,L,TRUE,FALSE,Sophomore,28,Male,Computer Science,TRUE,FALSE,approved,FALSE,TRUE,FALSE,[''],FALSE,10/15/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,TRUE,FALSE,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,FALSE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/19/2018
+,,TRUE,,,,,,TRUE,FALSE,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/20/2018
+,,,,,,,,,,approved,TRUE,TRUE,TRUE,[],FALSE,10/21/2018
