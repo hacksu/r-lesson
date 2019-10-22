@@ -7,7 +7,7 @@
     Data manipulation language
 
 But what do I use it for? \n
--Stats
+-Stats /n
 -Deep Learning
 -connect APIs
 -build and host interactive web apps
