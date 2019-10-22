@@ -1,16 +1,16 @@
-1. Download R Studio.
-  https://rstudio.com/products/rstudio/download/
+1. Download R Studio. <br />
+  https://rstudio.com/products/rstudio/download/  <br />
   
-2 What is R?
-    Open source language used a lot in stats and for graphing data
-    Derived from S
-    Data manipulation language
-
-But what do I use it for? \n
--Stats /n
--Deep Learning
--connect APIs
--build and host interactive web apps
--big data processing with Apache Spark
-
-3. Clone this github to get the CSV files.
+2. What is R? <br />
+    Open source language used a lot in stats and for graphing data <br />
+    Derived from S <br />
+    Data manipulation language <br />
+<br />
+  But what do I use it for?: <br />
+  -Stats <br />
+  -Deep Learning <br />
+  -connect APIs <br />
+  -build and host interactive web apps <br />
+  -big data processing with Apache Spark <br />
+<br />
+3. Clone this github to get the CSV files. 
