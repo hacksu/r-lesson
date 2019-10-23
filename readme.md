@@ -1,3 +1,7 @@
+Taught 10/22.  
+Notes if taught again:  
+-Downloads and loading a data set took awhile. 
+-Challenges were too challenging. 
 
 1. Download R Studio.
 https://rstudio.com/products/rstudio/download/
@@ -16,6 +20,9 @@ But what do I use it for?
 -more, more, more
 
 3. Clone this github to get the CSV files.
+
+4. Connect repository to R Studio. File > New Project > Existing Directory
+
 
 Moving on...
 Basic data types in R:
@@ -118,14 +125,14 @@ I’d like to know the average mpg.
 CHALLENGE 2: FIND THE FIVE NUMBER SUMMARY USED IN STATS ON JUST MTCARS MPG
 > 	summary(mtcars$mpg)
 
-CHALLENGE 3: CREATE A LINEAR REGRESSION LINE USING MPG AND CY, THEN PLOT IT. 
+CHALLENGE 3: CREATE A LINEAR REGRESSION LINE USING MPG AND CYL, THEN PLOT IT. 
 Challenge to find linear relationship or something.  
-> plot(lm(mtcars$mpg~mtcars$vs, data=mtcars))
+> plot(lm(mtcars$mpg~mtcars$cyl, data=mtcars))
 
 --------------------------------------------HEATMAP----------------------------------------------------------
-Next, let’s create a heatmap using gradebook.csv file.
+Next, let’s create a heatmap using gradebook.csv file. Import gradebook dataset. 
 Put the dataset in a var. I’m going to also save the dataset into something easier to work with.
->	 grades <- gradebook.csv
+>	 grades <- gradebook
 
 Let’s have it print out the student ID instead of the row number, but we’re going to save that in a new var
 > 	row.names(grades) <- grades$`Student ID`
@@ -135,26 +142,6 @@ CHALLENGE 4: FIGURE OUT HOW TO INPUT THE DATA IN NAMES INTO A MATRIX.
 
 Create the heatmap
 >	heatmap(g_matrix, Rowv=NA, Colv=NA, col = cm.colors(256), scale="column", margins=c(5,10))
-
-CHALLENGE 5: FIGURE OUT HOW TO GET VARIABLES ON X AXIS TO BE HORIZONTAL
->	 heatmap(g_matrix, Rowv=NA, Colv=NA, col = cm.colors(256), scale="column", margins=c(5,10), srtCol=35)
-
-Make a key for the heatmap. 
->	heatmap.2(g_matrix, Rowv=NA, Colv=NA, col = cm.colors(256), scale="column", margins=c(5,10))
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 --------------------------------------------------------------------------------------------------------------------
